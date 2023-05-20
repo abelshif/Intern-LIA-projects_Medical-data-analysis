@@ -1,0 +1,521 @@
+id,consultation_cost,patient_body_area,patient_status,community,marital_status,has_children,has_dependent,num_of_children,num_of_dependents,age,gender,years_of_experience
+1,1900,legs,under appointment,suburban,Divorced,Yes,No,4,3,29,Female,3
+2,9100,chest area,new consultation,rural,Married,No,Yes,3,2,12,Female,16
+3,8200,head,new consultation,rural,Married,Yes,Yes,2,1,35,Male,14
+4,5600,back,appointed session,rural,Married,Yes,No,2,1,25,Female,9
+5,1200,stomach,new consultation,suburban,Single,No,Yes,1,1,39,Female,1
+6,2800,chest area,new consultation,rural,Divorced,No,Yes,2,4,12,Female,4
+7,7300,upper chest area,under appointment,urban,Single,No,Yes,1,0,15,Female,13
+8,3300,head,new consultation,rural,Single,No,No,1,0,23,Female,5
+9,6000,legs,new consultation,urban,Married,Yes,No,1,4,26,Female,9
+10,4700,upper chest area,new consultation,suburban,Married,No,Yes,4,1,13,Female,7
+11,1200,chest area,appointed session,rural,Divorced,No,Yes,2,4,12,Female,2
+12,8400,back,new consultation,suburban,Married,Yes,Yes,4,2,11,Male,14
+13,7300,stomach,admitted,rural,Single,No,No,1,1,20,Male,12
+14,5400,stomach,appointed session,suburban,Married,No,No,3,3,30,Male,8
+15,9400,chest area,admitted,suburban,Divorced,No,Yes,4,3,27,Male,16
+16,9400,back,admitted,rural,Married,No,Yes,3,1,16,Female,17
+17,5200,stomach,under appointment,urban,Married,Yes,Yes,3,1,37,Female,8
+18,7700,upper chest area,under appointment,suburban,Married,No,No,3,3,30,Male,13
+19,4400,head,new consultation,rural,Single,No,No,0,0,21,Male,7
+20,8900,stomach,appointed session,urban,Single,Yes,No,0,0,15,Female,15
+21,3300,back,new consultation,suburban,Divorced,No,Yes,2,3,31,Female,5
+22,1800,shoulder,under appointment,rural,Divorced,No,Yes,4,3,31,Female,3
+23,1200,head,new consultation,rural,Married,No,Yes,4,3,28,Male,3
+24,8400,back,new consultation,urban,Divorced,Yes,No,2,1,25,Female,14
+25,1700,back,admitted,urban,Single,Yes,No,1,0,17,Female,4
+26,9100,chest area,new consultation,suburban,Divorced,Yes,No,1,4,29,Female,16
+27,1100,shoulder,under appointment,rural,Divorced,Yes,Yes,1,3,14,Male,2
+28,7300,shoulder,under appointment,rural,Married,No,Yes,1,1,16,Male,12
+29,8900,chest area,under appointment,rural,Single,No,No,0,0,21,Male,15
+30,8200,stomach,new consultation,suburban,Divorced,Yes,Yes,1,3,22,Male,15
+31,5900,stomach,new consultation,urban,Divorced,No,No,2,2,15,Female,9
+32,6800,chest area,admitted,rural,Divorced,Yes,No,4,2,40,Male,11
+33,2500,upper chest area,admitted,rural,Married,Yes,No,2,1,25,Female,5
+34,6400,head,appointed session,urban,Divorced,Yes,No,2,1,25,Female,10
+35,8300,back,admitted,suburban,Married,Yes,Yes,4,3,20,Male,14
+36,1700,legs,appointed session,suburban,Single,No,No,1,0,38,Male,3
+37,3300,back,new consultation,urban,Divorced,No,No,2,2,15,Female,5
+38,5600,back,under appointment,urban,Single,No,No,1,1,24,Male,9
+39,2100,head,under appointment,suburban,Married,No,Yes,2,1,28,Female,3
+40,7900,upper chest area,appointed session,rural,Divorced,No,No,3,1,36,Female,13
+41,3300,shoulder,new consultation,urban,Divorced,Yes,No,2,1,25,Female,5
+42,3800,back,appointed session,suburban,Divorced,No,Yes,4,3,27,Male,6
+43,9300,back,new consultation,suburban,Single,No,Yes,1,0,13,Female,17
+44,3500,back,under appointment,rural,Divorced,Yes,Yes,4,4,37,Female,5
+45,2500,chest area,under appointment,urban,Married,Yes,No,4,2,15,Male,4
+46,7800,shoulder,appointed session,rural,Married,Yes,No,1,4,24,Male,13
+47,3400,stomach,admitted,urban,Divorced,Yes,No,4,1,17,Male,5
+48,2600,legs,under appointment,suburban,Married,Yes,Yes,1,3,12,Female,4
+49,7700,back,new consultation,suburban,Married,No,Yes,1,2,16,Female,13
+50,10500,stomach,new consultation,suburban,Divorced,Yes,No,1,4,29,Female,18
+51,8300,back,new consultation,suburban,Divorced,No,Yes,2,2,21,Male,15
+52,3000,head,new consultation,urban,Married,Yes,No,2,2,20,Male,4
+53,1300,chest area,admitted,urban,Single,No,No,0,1,21,Female,2
+54,7600,upper chest area,appointed session,urban,Divorced,No,No,2,2,15,Female,14
+55,8900,chest area,admitted,suburban,Divorced,Yes,No,1,4,29,Female,16
+56,4000,chest area,under appointment,suburban,Divorced,No,Yes,2,2,21,Male,6
+57,1400,shoulder,new consultation,urban,Single,Yes,Yes,0,0,39,Male,1
+58,4000,stomach,appointed session,rural,Single,Yes,Yes,1,1,18,Male,6
+59,8900,chest area,new consultation,rural,Divorced,No,No,2,2,38,Female,15
+60,1300,upper chest area,admitted,urban,Single,No,No,1,1,15,Male,1
+61,1500,head,appointed session,suburban,Divorced,No,No,3,3,15,Male,2
+62,5300,shoulder,new consultation,urban,Married,No,Yes,3,2,27,Male,8
+63,9300,upper chest area,new consultation,suburban,Divorced,No,No,4,2,40,Female,16
+64,1300,chest area,new consultation,rural,Married,Yes,Yes,2,4,33,Female,2
+65,3300,chest area,under appointment,rural,Married,No,Yes,2,4,15,Male,5
+66,7200,back,new consultation,rural,Divorced,No,No,1,1,12,Male,12
+67,4100,back,appointed session,rural,Married,No,No,1,1,35,Male,6
+68,4700,head,new consultation,rural,Divorced,No,No,4,3,23,Female,7
+69,6600,head,new consultation,suburban,Married,No,Yes,4,1,13,Female,10
+70,1800,head,new consultation,suburban,Divorced,Yes,No,4,1,16,Male,3
+71,9200,shoulder,appointed session,rural,Divorced,Yes,Yes,4,4,37,Female,16
+72,7000,back,under appointment,rural,Single,No,No,1,1,20,Male,11
+73,9900,chest area,under appointment,urban,Single,No,No,1,0,20,Female,17
+74,5300,stomach,under appointment,suburban,Divorced,No,Yes,4,1,37,Female,8
+75,2100,stomach,admitted,urban,Divorced,No,No,3,2,32,Female,3
+76,5200,back,under appointment,urban,Divorced,No,Yes,1,4,19,Female,8
+77,8300,stomach,new consultation,suburban,Single,No,Yes,1,1,39,Female,14
+78,6900,legs,new consultation,suburban,Divorced,No,Yes,1,2,29,Male,11
+79,4000,chest area,appointed session,rural,Divorced,Yes,No,1,2,40,Female,6
+80,7600,stomach,appointed session,rural,Divorced,Yes,No,2,4,31,Female,13
+81,6800,back,new consultation,suburban,Divorced,Yes,No,2,4,25,Male,11
+82,9300,head,admitted,suburban,Single,No,No,1,0,33,Female,16
+83,9300,stomach,admitted,suburban,Single,Yes,No,0,0,38,Female,16
+84,4700,stomach,appointed session,urban,Married,No,Yes,1,2,35,Female,7
+85,5200,head,new consultation,urban,Married,Yes,No,2,2,34,Female,8
+86,3300,head,admitted,suburban,Married,Yes,Yes,4,3,20,Male,5
+87,3300,back,admitted,suburban,Divorced,No,Yes,2,2,25,Female,6
+88,4200,shoulder,admitted,urban,Divorced,Yes,No,4,2,37,Male,6
+89,9600,chest area,appointed session,rural,Single,No,No,1,0,23,Female,17
+90,1900,legs,admitted,rural,Married,No,No,3,4,22,Male,3
+91,6600,head,new consultation,suburban,Married,Yes,No,2,3,14,Male,10
+92,7700,stomach,appointed session,suburban,Divorced,No,Yes,2,2,21,Male,13
+93,4500,stomach,appointed session,urban,Divorced,No,No,3,2,32,Female,7
+94,8000,back,under appointment,urban,Married,Yes,Yes,3,2,20,Male,14
+95,8200,stomach,under appointment,suburban,Divorced,No,Yes,1,2,29,Male,14
+96,9900,stomach,new consultation,suburban,Single,Yes,Yes,0,0,15,Female,17
+97,8400,legs,admitted,suburban,Married,Yes,Yes,4,3,11,Female,14
+98,6900,stomach,admitted,urban,Single,No,Yes,0,1,17,Female,11
+99,4500,chest area,admitted,rural,Divorced,No,Yes,4,3,31,Female,7
+100,5200,back,new consultation,suburban,Divorced,No,Yes,2,2,21,Male,8
+101,10500,stomach,appointed session,rural,Divorced,Yes,No,2,4,31,Female,18
+102,4700,legs,new consultation,urban,Divorced,Yes,No,3,4,26,Female,7
+103,3800,stomach,new consultation,suburban,Divorced,No,No,4,3,16,Female,6
+104,1100,shoulder,under appointment,rural,Divorced,No,Yes,1,4,25,Male,2
+105,9700,shoulder,under appointment,rural,Divorced,Yes,No,2,4,31,Female,17
+106,7800,head,new consultation,rural,Married,No,Yes,3,2,12,Female,13
+107,7200,head,appointed session,suburban,Divorced,No,Yes,2,2,20,Female,12
+108,8300,stomach,new consultation,suburban,Married,No,No,3,1,22,Male,14
+109,4100,shoulder,new consultation,urban,Single,Yes,Yes,1,1,35,Female,6
+110,2900,head,admitted,suburban,Married,Yes,Yes,1,3,12,Female,4
+111,2200,stomach,appointed session,rural,Single,Yes,Yes,1,1,18,Male,3
+112,5400,back,new consultation,urban,Married,Yes,No,1,2,32,Male,8
+113,4600,stomach,admitted,suburban,Divorced,No,No,2,3,36,Female,7
+114,9600,back,new consultation,urban,Married,Yes,Yes,3,2,20,Male,17
+115,5900,back,new consultation,suburban,Married,No,Yes,4,1,13,Female,9
+116,8300,stomach,admitted,rural,Married,Yes,Yes,2,3,38,Male,15
+117,4000,stomach,new consultation,urban,Married,Yes,No,2,3,29,Male,6
+118,3300,chest area,under appointment,suburban,Divorced,No,No,4,2,40,Female,5
+119,5600,shoulder,new consultation,suburban,Divorced,Yes,No,4,3,19,Female,9
+120,2200,stomach,new consultation,suburban,Married,No,Yes,1,2,16,Female,3
+121,2200,legs,appointed session,rural,Married,No,No,1,2,11,Male,4
+122,8400,chest area,new consultation,rural,Divorced,No,No,4,4,14,Male,15
+123,5400,legs,new consultation,rural,Divorced,No,No,2,3,31,Female,8
+124,1200,legs,new consultation,suburban,Married,Yes,No,2,4,10,Male,1
+125,8700,stomach,new consultation,rural,Married,No,Yes,2,4,15,Male,15
+126,6600,back,new consultation,rural,Married,Yes,Yes,2,4,33,Female,11
+127,2000,back,appointed session,rural,Married,Yes,No,2,1,25,Female,4
+128,9900,upper chest area,new consultation,urban,Single,Yes,No,0,0,15,Female,17
+129,10200,shoulder,new consultation,suburban,Divorced,No,No,2,3,36,Female,18
+130,9600,back,new consultation,urban,Married,No,No,3,1,37,Male,17
+131,9100,stomach,under appointment,urban,Married,Yes,No,2,3,29,Male,16
+132,2500,upper chest area,admitted,rural,Single,No,Yes,0,1,13,Male,4
+133,1800,legs,admitted,rural,Single,Yes,Yes,0,1,39,Male,3
+134,3800,head,appointed session,urban,Married,No,No,2,4,15,Male,6
+135,8200,legs,appointed session,rural,Single,Yes,No,1,0,16,Female,14
+136,3500,legs,admitted,urban,Married,No,No,3,1,37,Male,5
+137,6800,back,appointed session,urban,Married,Yes,No,2,3,29,Male,11
+138,8700,stomach,under appointment,suburban,Single,No,Yes,0,1,29,Female,15
+139,2400,stomach,new consultation,suburban,Married,No,Yes,4,1,30,Male,4
+140,6900,head,admitted,urban,Single,Yes,Yes,1,0,24,Female,11
+141,1400,upper chest area,under appointment,suburban,Married,Yes,Yes,1,1,16,Male,2
+142,9900,stomach,admitted,rural,Divorced,No,Yes,2,1,10,Male,18
+143,5700,upper chest area,new consultation,suburban,Divorced,Yes,No,1,4,29,Female,10
+144,5300,back,new consultation,suburban,Married,No,Yes,1,2,16,Female,8
+145,1100,stomach,under appointment,urban,Divorced,No,Yes,3,3,20,Male,1
+146,1400,stomach,appointed session,urban,Married,No,No,4,2,16,Male,2
+147,1300,head,appointed session,urban,Divorced,Yes,No,3,4,26,Female,1
+148,1200,shoulder,admitted,urban,Single,Yes,Yes,0,0,39,Male,2
+149,1400,legs,under appointment,suburban,Divorced,Yes,Yes,1,3,22,Male,2
+150,3000,upper chest area,new consultation,rural,Married,Yes,Yes,2,4,33,Female,5
+151,1300,upper chest area,new consultation,rural,Divorced,Yes,No,2,4,31,Female,1
+152,1100,legs,admitted,suburban,Single,Yes,No,0,0,30,Female,2
+153,7300,head,under appointment,rural,Divorced,No,No,3,1,36,Female,12
+154,2100,upper chest area,admitted,rural,Divorced,No,Yes,2,4,17,Male,3
+155,7900,head,appointed session,rural,Single,Yes,Yes,0,1,39,Male,13
+156,5900,upper chest area,under appointment,suburban,Divorced,Yes,No,2,4,25,Male,9
+157,2100,legs,new consultation,rural,Single,Yes,No,1,1,17,Female,3
+158,2200,shoulder,under appointment,suburban,Married,Yes,Yes,1,1,16,Male,3
+159,6300,chest area,appointed session,rural,Single,No,Yes,0,0,12,Male,10
+160,6400,chest area,new consultation,rural,Married,Yes,Yes,4,2,28,Female,10
+161,6400,stomach,appointed session,rural,Married,Yes,No,1,4,24,Male,10
+162,1500,back,under appointment,urban,Single,Yes,Yes,1,0,24,Female,2
+163,6300,back,new consultation,rural,Divorced,No,Yes,2,4,12,Female,10
+164,1400,back,new consultation,suburban,Divorced,No,No,4,2,40,Female,3
+165,8400,shoulder,new consultation,rural,Single,Yes,Yes,1,1,39,Female,14
+166,1400,stomach,appointed session,rural,Single,Yes,Yes,0,0,23,Female,1
+167,1700,upper chest area,new consultation,urban,Married,Yes,No,4,2,15,Male,3
+168,5300,head,new consultation,suburban,Divorced,No,Yes,2,2,21,Male,8
+169,7400,back,new consultation,rural,Married,No,No,1,1,35,Male,12
+170,8400,head,appointed session,rural,Married,No,Yes,3,2,24,Female,14
+171,8700,back,admitted,suburban,Single,Yes,Yes,1,0,31,Male,15
+172,4100,shoulder,new consultation,rural,Divorced,No,No,4,3,23,Female,6
+173,4500,stomach,under appointment,urban,Divorced,Yes,Yes,1,3,37,Female,7
+174,8300,back,admitted,rural,Divorced,No,Yes,2,4,12,Female,14
+175,2600,head,new consultation,urban,Married,No,No,3,1,37,Male,4
+176,2400,upper chest area,admitted,urban,Single,No,Yes,1,0,15,Female,4
+177,9300,head,new consultation,rural,Married,No,Yes,4,4,38,Female,16
+178,4000,stomach,admitted,suburban,Divorced,No,Yes,1,2,29,Male,6
+179,6200,head,admitted,rural,Divorced,No,No,2,2,38,Female,10
+180,4800,back,new consultation,suburban,Single,Yes,No,1,1,17,Male,7
+181,1400,legs,new consultation,suburban,Divorced,No,Yes,4,1,37,Female,1
+182,6800,chest area,admitted,rural,Married,Yes,Yes,2,4,33,Female,11
+183,7200,upper chest area,admitted,urban,Divorced,No,No,2,2,15,Female,12
+184,5300,stomach,new consultation,rural,Single,Yes,Yes,1,1,18,Male,9
+185,7200,back,admitted,urban,Divorced,No,No,2,2,15,Female,13
+186,6400,back,new consultation,urban,Single,No,No,0,1,21,Female,10
+187,7900,upper chest area,new consultation,suburban,Divorced,Yes,No,4,3,19,Female,14
+188,7300,back,under appointment,suburban,Divorced,Yes,No,4,3,29,Female,12
+189,8800,chest area,new consultation,urban,Single,Yes,Yes,1,0,12,Female,15
+190,1300,head,appointed session,suburban,Single,No,No,1,0,38,Male,2
+191,5300,upper chest area,new consultation,urban,Married,Yes,No,4,2,15,Male,8
+192,10200,chest area,admitted,suburban,Divorced,No,Yes,3,4,39,Male,18
+193,1500,stomach,new consultation,suburban,Married,No,Yes,1,4,19,Female,3
+194,5300,legs,new consultation,rural,Single,Yes,Yes,1,1,18,Male,8
+195,8800,back,appointed session,urban,Single,Yes,No,1,0,20,Male,15
+196,2500,stomach,new consultation,suburban,Married,No,No,1,3,36,Female,4
+197,3300,back,appointed session,rural,Married,No,Yes,2,2,14,Male,5
+198,5200,stomach,new consultation,urban,Married,Yes,No,3,2,22,Male,8
+199,4900,legs,new consultation,urban,Married,Yes,No,3,2,22,Male,7
+200,2000,stomach,new consultation,suburban,Single,Yes,No,1,1,17,Male,3
+201,9300,back,admitted,suburban,Single,No,No,1,0,17,Male,16
+202,8400,back,new consultation,rural,Married,No,No,2,1,36,Female,14
+203,6000,upper chest area,admitted,urban,Divorced,No,No,2,2,15,Female,9
+204,1100,head,admitted,suburban,Divorced,Yes,Yes,1,1,35,Female,1
+205,2700,stomach,new consultation,urban,Divorced,No,Yes,1,3,35,Male,4
+206,7200,back,new consultation,suburban,Divorced,Yes,Yes,4,2,33,Female,13
+207,3500,head,admitted,urban,Married,Yes,No,4,3,20,Male,5
+208,6000,back,under appointment,rural,Single,No,No,1,0,23,Female,9
+209,4900,head,new consultation,suburban,Divorced,Yes,Yes,1,1,35,Female,7
+210,1400,head,new consultation,urban,Single,No,Yes,0,1,17,Female,2
+211,8200,stomach,under appointment,urban,Divorced,Yes,Yes,2,1,37,Male,14
+212,7400,back,admitted,suburban,Married,No,No,3,2,29,Male,12
+213,5200,upper chest area,admitted,suburban,Married,No,Yes,4,1,30,Male,8
+214,9100,back,new consultation,rural,Married,Yes,Yes,2,4,33,Female,16
+215,9400,stomach,appointed session,suburban,Divorced,No,Yes,4,3,27,Male,17
+216,5300,stomach,new consultation,rural,Married,No,Yes,2,4,31,Male,8
+217,7800,head,admitted,urban,Married,No,No,2,4,15,Male,13
+218,5000,stomach,appointed session,rural,Divorced,No,Yes,4,3,31,Female,7
+219,8700,stomach,appointed session,rural,Married,No,Yes,2,4,15,Male,15
+220,3500,shoulder,new consultation,suburban,Married,Yes,No,1,1,33,Female,5
+221,1700,shoulder,new consultation,suburban,Divorced,Yes,Yes,1,3,22,Male,3
+222,1300,back,appointed session,rural,Divorced,Yes,No,2,4,31,Female,3
+223,8300,shoulder,new consultation,urban,Married,Yes,No,1,2,32,Male,14
+224,2100,stomach,under appointment,suburban,Divorced,No,Yes,1,2,29,Male,4
+225,9400,back,new consultation,rural,Married,No,Yes,2,2,14,Male,16
+226,1200,head,new consultation,urban,Married,Yes,Yes,3,2,20,Male,2
+227,7300,stomach,new consultation,suburban,Married,Yes,Yes,3,4,12,Male,12
+228,8800,chest area,admitted,urban,Married,Yes,No,1,4,26,Female,15
+229,8200,head,appointed session,rural,Married,Yes,No,4,1,36,Female,15
+230,5900,shoulder,appointed session,suburban,Divorced,Yes,No,2,1,25,Male,9
+231,6900,back,admitted,rural,Divorced,No,No,2,3,31,Female,11
+232,2400,stomach,new consultation,rural,Divorced,Yes,Yes,4,1,14,Male,5
+233,6300,stomach,under appointment,urban,Married,No,No,4,2,16,Male,10
+234,8400,upper chest area,new consultation,urban,Married,No,Yes,3,2,30,Male,14
+235,2200,legs,admitted,rural,Married,No,Yes,4,3,28,Male,3
+236,3300,chest area,admitted,urban,Divorced,Yes,No,4,1,17,Male,5
+237,5900,stomach,under appointment,rural,Married,No,No,1,1,35,Male,9
+238,1800,upper chest area,under appointment,rural,Divorced,Yes,Yes,4,1,14,Male,3
+239,7900,legs,under appointment,urban,Divorced,Yes,No,4,2,37,Male,13
+240,3500,back,appointed session,rural,Single,Yes,Yes,0,1,18,Female,5
+241,4200,back,new consultation,suburban,Divorced,Yes,No,1,4,29,Female,6
+242,9100,legs,new consultation,suburban,Divorced,Yes,No,4,1,16,Male,17
+243,3400,back,under appointment,urban,Married,Yes,Yes,3,2,20,Male,5
+244,2700,stomach,new consultation,suburban,Married,Yes,Yes,2,4,21,Female,4
+245,7700,head,new consultation,suburban,Divorced,No,No,2,3,36,Female,13
+246,3400,shoulder,admitted,suburban,Single,Yes,Yes,1,1,11,Male,5
+247,2500,legs,new consultation,rural,Married,Yes,Yes,4,1,20,Male,4
+248,7800,head,admitted,urban,Divorced,No,Yes,1,4,19,Female,13
+249,10200,stomach,new consultation,urban,Single,No,No,1,1,15,Male,18
+250,8300,upper chest area,new consultation,urban,Divorced,No,Yes,4,2,15,Female,15
+251,2700,head,new consultation,urban,Single,No,Yes,0,1,17,Female,4
+252,1300,back,new consultation,rural,Divorced,Yes,No,2,4,31,Female,2
+253,7700,back,new consultation,suburban,Single,No,Yes,1,1,39,Female,14
+254,8600,head,appointed session,rural,Single,No,No,0,0,21,Male,16
+255,3800,legs,new consultation,suburban,Divorced,No,No,4,3,16,Female,6
+256,1500,stomach,appointed session,suburban,Married,No,No,3,2,29,Male,1
+257,4200,back,new consultation,rural,Single,Yes,No,1,0,16,Female,6
+258,8700,back,under appointment,urban,Married,Yes,No,3,2,22,Male,15
+259,1100,chest area,admitted,suburban,Single,Yes,Yes,0,0,27,Male,1
+260,1300,stomach,new consultation,suburban,Married,Yes,Yes,1,1,16,Male,2
+261,5300,shoulder,admitted,rural,Divorced,Yes,Yes,3,3,35,Male,8
+262,9400,chest area,new consultation,urban,Single,Yes,No,0,1,36,Female,16
+263,1400,legs,under appointment,urban,Divorced,Yes,No,4,2,37,Male,2
+264,3400,legs,new consultation,rural,Divorced,No,Yes,4,3,31,Female,5
+265,7200,upper chest area,appointed session,rural,Single,Yes,Yes,0,1,39,Male,12
+266,4200,upper chest area,appointed session,urban,Single,No,Yes,0,1,17,Female,6
+267,4900,stomach,under appointment,urban,Divorced,No,Yes,2,4,28,Male,7
+268,6200,legs,appointed session,urban,Married,Yes,No,2,2,34,Female,10
+269,2200,stomach,appointed session,urban,Divorced,No,Yes,1,4,19,Female,3
+270,9100,head,new consultation,suburban,Married,No,No,3,3,30,Male,16
+271,6800,back,new consultation,urban,Married,Yes,No,3,2,22,Male,11
+272,9600,back,new consultation,urban,Single,No,No,0,0,36,Male,17
+273,5200,stomach,new consultation,rural,Married,Yes,No,1,3,26,Female,8
+274,1900,head,new consultation,suburban,Single,Yes,Yes,1,1,11,Male,3
+275,5400,head,under appointment,rural,Married,Yes,Yes,2,1,35,Male,8
+276,8200,back,new consultation,rural,Married,No,Yes,2,4,31,Male,14
+277,6800,head,new consultation,rural,Divorced,No,No,2,2,38,Female,11
+278,4000,head,under appointment,rural,Single,No,Yes,1,0,13,Female,6
+279,7900,back,appointed session,suburban,Married,Yes,Yes,4,3,35,Male,13
+280,6800,head,under appointment,suburban,Married,No,No,3,3,30,Male,11
+281,9200,chest area,admitted,suburban,Married,Yes,Yes,3,4,12,Male,16
+282,9400,upper chest area,new consultation,rural,Single,Yes,No,1,0,16,Female,16
+283,4800,stomach,new consultation,suburban,Married,Yes,No,3,3,32,Male,7
+284,5200,shoulder,new consultation,rural,Married,Yes,Yes,4,2,33,Male,8
+285,3500,chest area,admitted,urban,Divorced,No,Yes,2,4,28,Male,5
+286,3300,legs,appointed session,rural,Divorced,No,No,2,2,38,Female,6
+287,4100,shoulder,new consultation,suburban,Single,No,No,1,0,38,Male,6
+288,9600,head,new consultation,suburban,Single,No,Yes,1,0,13,Female,17
+289,1700,stomach,appointed session,urban,Married,No,No,1,2,24,Female,3
+290,6300,shoulder,appointed session,suburban,Divorced,No,Yes,4,3,27,Male,10
+291,8000,stomach,admitted,urban,Single,Yes,Yes,0,0,39,Male,13
+292,4500,head,new consultation,urban,Married,Yes,Yes,3,1,37,Female,7
+293,7600,head,appointed session,rural,Single,Yes,No,1,1,17,Female,14
+294,8200,stomach,admitted,urban,Married,Yes,No,1,4,26,Male,14
+295,9600,shoulder,new consultation,rural,Divorced,Yes,No,1,2,40,Female,17
+296,8400,head,under appointment,rural,Divorced,No,No,4,4,14,Male,14
+297,6800,chest area,under appointment,urban,Divorced,No,Yes,2,4,28,Male,11
+298,4500,stomach,appointed session,suburban,Divorced,No,Yes,2,3,31,Female,7
+299,5400,head,new consultation,suburban,Single,No,No,1,1,30,Female,8
+300,10500,stomach,appointed session,rural,Single,Yes,Yes,1,1,18,Male,18
+301,5000,upper chest area,admitted,urban,Divorced,No,Yes,2,4,28,Male,7
+302,3900,head,new consultation,urban,Married,Yes,No,4,3,20,Male,6
+303,1300,stomach,new consultation,rural,Married,No,No,1,1,35,Male,2
+304,9600,back,new consultation,rural,Single,Yes,Yes,1,1,18,Male,17
+305,8000,shoulder,admitted,urban,Single,No,Yes,1,1,15,Female,13
+306,7300,back,new consultation,urban,Single,Yes,Yes,1,0,12,Female,12
+307,8300,back,appointed session,suburban,Divorced,Yes,No,3,1,25,Male,14
+308,3900,back,admitted,suburban,Married,Yes,No,2,2,32,Male,6
+309,2900,stomach,new consultation,rural,Divorced,Yes,Yes,3,3,35,Male,4
+310,1700,shoulder,appointed session,rural,Married,No,Yes,3,2,24,Female,3
+311,5200,stomach,under appointment,urban,Married,No,Yes,3,2,27,Male,8
+312,4500,stomach,new consultation,urban,Divorced,No,Yes,1,4,19,Female,7
+313,9900,stomach,appointed session,rural,Married,Yes,No,2,4,27,Female,17
+314,5600,upper chest area,new consultation,urban,Single,Yes,Yes,1,0,12,Female,9
+315,8400,stomach,appointed session,rural,Married,Yes,No,4,3,22,Female,15
+316,4200,shoulder,admitted,rural,Divorced,Yes,No,3,4,26,Male,6
+317,3500,head,under appointment,suburban,Divorced,No,No,4,3,16,Female,5
+318,5800,back,new consultation,urban,Single,Yes,No,1,0,20,Male,9
+319,2000,head,admitted,rural,Married,Yes,Yes,2,3,38,Male,3
+320,2100,back,appointed session,urban,Divorced,Yes,No,4,2,37,Male,4
+321,8300,upper chest area,new consultation,rural,Divorced,No,Yes,4,3,31,Female,15
+322,5300,upper chest area,under appointment,urban,Single,No,Yes,1,1,15,Female,8
+323,1200,upper chest area,admitted,suburban,Divorced,No,Yes,4,1,37,Female,1
+324,8800,stomach,new consultation,rural,Divorced,No,Yes,2,1,10,Male,15
+325,6300,upper chest area,under appointment,urban,Married,No,No,2,2,20,Male,11
+326,1700,legs,under appointment,suburban,Married,Yes,Yes,2,2,14,Female,4
+327,9800,back,under appointment,urban,Divorced,No,Yes,3,3,20,Male,17
+328,10300,chest area,under appointment,urban,Divorced,No,Yes,3,3,20,Male,18
+329,9800,legs,under appointment,suburban,Single,Yes,Yes,1,0,31,Male,17
+330,9100,back,admitted,rural,Single,Yes,No,0,0,17,Male,16
+331,2400,back,new consultation,suburban,Divorced,No,No,4,3,16,Female,4
+332,2100,back,admitted,urban,Married,Yes,No,1,2,32,Male,3
+333,4100,back,new consultation,suburban,Divorced,No,Yes,2,2,20,Female,6
+334,8400,legs,appointed session,urban,Married,No,No,2,4,15,Male,14
+335,3300,upper chest area,new consultation,urban,Married,Yes,No,2,2,34,Female,5
+336,7000,legs,new consultation,suburban,Divorced,Yes,No,3,1,25,Male,11
+337,8800,head,admitted,urban,Divorced,Yes,Yes,2,1,37,Male,15
+338,2900,head,new consultation,rural,Divorced,No,Yes,4,3,31,Female,4
+339,6800,head,under appointment,suburban,Married,Yes,Yes,4,3,11,Female,11
+340,1300,stomach,new consultation,rural,Divorced,Yes,Yes,1,3,14,Male,2
+341,9800,back,under appointment,rural,Married,No,No,1,1,35,Male,18
+342,5700,upper chest area,new consultation,suburban,Single,No,No,1,0,33,Female,10
+343,5400,shoulder,new consultation,urban,Married,Yes,No,2,3,29,Male,8
+344,1400,back,under appointment,suburban,Married,No,Yes,4,1,13,Female,1
+345,1400,back,new consultation,rural,Divorced,No,No,4,4,14,Male,2
+346,1100,back,new consultation,urban,Married,Yes,No,2,2,20,Male,1
+347,1500,stomach,appointed session,suburban,Divorced,No,No,1,2,35,Male,2
+348,1500,stomach,new consultation,rural,Married,Yes,Yes,2,4,33,Female,2
+349,3000,stomach,under appointment,urban,Married,Yes,No,4,3,20,Male,5
+350,1400,stomach,under appointment,urban,Single,Yes,Yes,1,1,35,Female,1
+351,1300,legs,admitted,rural,Divorced,No,Yes,2,4,12,Female,2
+352,7200,shoulder,new consultation,urban,Married,No,Yes,1,3,16,Male,12
+353,1700,head,under appointment,suburban,Divorced,No,Yes,2,2,25,Female,3
+354,8000,head,appointed session,suburban,Divorced,No,Yes,4,3,27,Male,13
+355,6000,shoulder,admitted,suburban,Married,No,Yes,1,2,16,Female,9
+356,2100,back,under appointment,rural,Single,Yes,Yes,0,0,40,Male,3
+357,1900,legs,under appointment,suburban,Single,No,Yes,1,1,10,Female,3
+358,6400,head,admitted,suburban,Divorced,No,Yes,2,2,21,Male,10
+359,6400,shoulder,under appointment,urban,Single,Yes,No,1,0,17,Female,10
+360,6600,shoulder,under appointment,suburban,Divorced,No,Yes,1,2,29,Male,10
+361,1100,shoulder,under appointment,urban,Divorced,Yes,Yes,2,1,37,Male,2
+362,6600,shoulder,new consultation,suburban,Divorced,No,Yes,4,1,37,Female,10
+363,1400,back,under appointment,rural,Single,Yes,No,1,1,17,Female,3
+364,8200,back,new consultation,rural,Divorced,No,Yes,2,4,39,Female,14
+365,1400,legs,new consultation,suburban,Single,Yes,Yes,0,0,15,Female,1
+366,2100,legs,new consultation,urban,Divorced,Yes,Yes,2,3,37,Female,3
+367,5400,back,under appointment,suburban,Single,No,No,1,0,17,Male,8
+368,7300,head,under appointment,suburban,Married,Yes,No,1,1,33,Female,12
+369,8200,legs,under appointment,urban,Married,Yes,Yes,3,1,37,Female,14
+370,8800,upper chest area,admitted,suburban,Divorced,Yes,No,3,1,25,Male,15
+371,4200,back,new consultation,rural,Divorced,Yes,No,2,4,31,Female,6
+372,5000,back,admitted,rural,Married,Yes,Yes,4,2,33,Male,7
+373,8400,head,new consultation,rural,Divorced,No,Yes,4,3,31,Female,14
+374,3000,legs,new consultation,urban,Divorced,No,No,3,2,32,Female,4
+375,2800,stomach,appointed session,urban,Single,No,No,0,0,36,Male,4
+376,9400,shoulder,appointed session,rural,Married,Yes,No,2,4,27,Female,16
+377,4200,back,under appointment,urban,Single,No,Yes,0,1,17,Female,6
+378,6400,legs,new consultation,rural,Divorced,No,Yes,4,3,31,Female,10
+379,4900,shoulder,new consultation,rural,Single,No,No,1,0,23,Female,7
+380,1300,upper chest area,admitted,rural,Married,No,No,3,4,22,Male,1
+381,6800,head,new consultation,rural,Married,Yes,Yes,2,4,33,Female,11
+382,7300,chest area,new consultation,suburban,Married,Yes,Yes,1,1,16,Male,12
+383,5300,legs,under appointment,rural,Married,No,Yes,2,2,14,Male,9
+384,7300,back,new consultation,rural,Divorced,Yes,Yes,2,2,32,Female,13
+385,6300,head,admitted,suburban,Married,No,No,3,1,22,Male,10
+386,7600,stomach,under appointment,rural,Single,Yes,Yes,0,1,18,Female,14
+387,7200,head,new consultation,urban,Divorced,No,No,3,2,32,Female,12
+388,8600,back,new consultation,urban,Single,Yes,Yes,1,1,35,Female,15
+389,1500,stomach,new consultation,rural,Single,Yes,Yes,0,0,40,Male,2
+390,5400,chest area,appointed session,rural,Single,No,No,1,1,20,Male,8
+391,10200,head,new consultation,rural,Married,No,Yes,4,4,38,Female,18
+392,1500,back,under appointment,urban,Single,Yes,No,1,0,17,Female,3
+393,5300,legs,new consultation,urban,Divorced,Yes,Yes,2,1,37,Male,8
+394,8800,upper chest area,admitted,urban,Married,Yes,No,2,3,29,Male,15
+395,2700,back,new consultation,suburban,Married,Yes,Yes,2,4,21,Female,4
+396,3300,back,under appointment,rural,Married,Yes,Yes,4,2,28,Female,5
+397,5400,chest area,new consultation,rural,Divorced,No,No,1,3,29,Male,8
+398,4800,stomach,new consultation,rural,Single,Yes,Yes,1,0,20,Female,7
+399,1300,head,under appointment,rural,Married,No,Yes,2,4,15,Male,2
+400,1200,legs,new consultation,suburban,Divorced,Yes,No,4,3,29,Female,1
+401,8200,chest area,under appointment,rural,Married,Yes,Yes,2,4,33,Female,14
+402,4400,head,admitted,suburban,Single,No,Yes,1,0,13,Female,7
+403,8400,legs,under appointment,rural,Single,Yes,No,0,0,38,Female,14
+404,2500,head,admitted,urban,Married,Yes,No,4,3,20,Male,4
+405,8000,stomach,new consultation,rural,Divorced,Yes,Yes,1,3,14,Male,13
+406,9900,back,under appointment,urban,Married,No,No,2,4,15,Male,18
+407,1400,legs,appointed session,suburban,Divorced,Yes,No,4,1,16,Male,1
+408,1200,back,admitted,rural,Divorced,No,No,1,3,29,Male,2
+409,7400,head,new consultation,urban,Single,Yes,No,0,1,36,Female,12
+410,1500,legs,appointed session,suburban,Divorced,No,No,3,2,30,Female,2
+411,4500,back,new consultation,rural,Divorced,No,Yes,2,4,12,Female,7
+412,2900,stomach,appointed session,suburban,Married,Yes,No,2,3,14,Male,4
+413,1800,chest area,under appointment,urban,Divorced,Yes,No,4,1,17,Male,3
+414,9300,stomach,new consultation,suburban,Married,Yes,Yes,3,4,12,Male,16
+415,8300,stomach,new consultation,urban,Married,No,No,1,2,24,Female,14
+416,5800,shoulder,admitted,urban,Single,Yes,Yes,1,0,24,Female,9
+417,1300,back,admitted,urban,Single,No,No,1,1,37,Female,1
+418,3000,legs,new consultation,suburban,Divorced,No,No,3,3,15,Male,4
+419,7300,shoulder,admitted,suburban,Divorced,Yes,Yes,1,3,22,Male,13
+420,3400,head,new consultation,suburban,Married,Yes,Yes,4,3,20,Male,5
+421,5800,shoulder,new consultation,suburban,Married,Yes,Yes,2,4,21,Female,9
+422,4800,shoulder,new consultation,urban,Divorced,Yes,No,4,2,37,Male,7
+423,1300,legs,new consultation,urban,Single,No,Yes,0,0,19,Male,2
+424,8400,legs,new consultation,suburban,Single,No,Yes,0,1,29,Female,14
+425,7200,stomach,new consultation,urban,Married,No,Yes,3,2,27,Male,12
+426,5200,back,new consultation,urban,Divorced,No,Yes,1,3,35,Male,8
+427,9300,shoulder,admitted,urban,Single,Yes,Yes,1,0,24,Female,16
+428,9100,head,admitted,suburban,Single,Yes,Yes,0,0,15,Female,17
+429,5400,upper chest area,under appointment,suburban,Divorced,No,No,3,2,30,Female,8
+430,8000,stomach,appointed session,rural,Divorced,No,Yes,1,4,35,Female,13
+431,5000,chest area,new consultation,rural,Single,Yes,Yes,1,1,18,Male,7
+432,8900,head,new consultation,rural,Single,No,Yes,1,1,30,Male,15
+433,3400,head,appointed session,suburban,Single,Yes,No,0,0,38,Female,5
+434,1700,stomach,under appointment,rural,Single,No,No,1,1,20,Male,3
+435,1500,chest area,admitted,suburban,Married,No,Yes,1,4,19,Female,3
+436,8400,legs,new consultation,rural,Divorced,No,Yes,2,4,39,Female,14
+437,2200,upper chest area,under appointment,rural,Single,No,No,1,0,23,Female,4
+438,9400,stomach,new consultation,rural,Divorced,No,Yes,2,4,12,Female,16
+439,1100,back,appointed session,rural,Single,Yes,No,1,0,16,Female,2
+440,7200,head,under appointment,suburban,Married,Yes,No,2,2,32,Male,12
+441,8600,back,admitted,suburban,Single,Yes,Yes,1,0,31,Male,15
+442,8400,head,new consultation,suburban,Married,Yes,Yes,1,1,16,Male,15
+443,5700,legs,admitted,urban,Divorced,Yes,No,4,1,17,Male,9
+444,6800,upper chest area,under appointment,suburban,Divorced,Yes,Yes,3,3,19,Female,11
+445,2400,legs,new consultation,urban,Divorced,No,Yes,2,4,28,Male,5
+446,6300,chest area,appointed session,suburban,Divorced,Yes,Yes,4,2,33,Female,10
+447,8300,legs,appointed session,suburban,Single,Yes,Yes,1,1,11,Male,14
+448,1700,head,admitted,urban,Divorced,Yes,Yes,2,1,37,Male,3
+449,3300,back,appointed session,suburban,Divorced,No,Yes,2,2,20,Female,5
+450,5800,back,appointed session,suburban,Married,No,Yes,4,1,13,Female,9
+451,1700,legs,new consultation,rural,Married,Yes,No,1,4,24,Male,3
+452,7700,upper chest area,new consultation,urban,Married,Yes,No,2,2,20,Male,13
+453,3500,back,new consultation,urban,Divorced,Yes,No,2,1,25,Female,5
+454,4100,head,new consultation,rural,Divorced,Yes,Yes,1,3,14,Male,6
+455,9200,shoulder,appointed session,suburban,Married,Yes,No,2,4,10,Male,17
+456,3300,stomach,new consultation,suburban,Divorced,Yes,No,2,1,25,Male,5
+457,2400,stomach,appointed session,suburban,Married,Yes,Yes,4,4,17,Male,4
+458,7700,legs,under appointment,suburban,Divorced,No,No,3,3,15,Male,13
+459,3400,back,new consultation,suburban,Married,No,No,1,3,36,Female,5
+460,2400,back,appointed session,urban,Divorced,No,No,2,2,15,Female,4
+461,7700,back,under appointment,rural,Divorced,No,No,2,3,31,Female,13
+462,10700,upper chest area,under appointment,urban,Single,Yes,Yes,1,0,12,Female,18
+463,8200,chest area,under appointment,urban,Single,No,No,1,1,37,Female,15
+464,2600,stomach,admitted,urban,Single,Yes,Yes,1,0,12,Female,4
+465,1300,head,appointed session,suburban,Married,No,No,3,2,29,Male,2
+466,7900,stomach,new consultation,urban,Single,No,Yes,0,0,10,Male,14
+467,8900,back,new consultation,urban,Single,No,No,1,1,15,Male,16
+468,4000,head,appointed session,suburban,Single,No,Yes,1,1,10,Female,6
+469,1500,head,new consultation,urban,Married,Yes,No,2,3,29,Male,1
+470,3800,legs,admitted,suburban,Divorced,Yes,Yes,1,1,35,Female,6
+471,8600,chest area,new consultation,urban,Single,Yes,Yes,1,1,35,Female,15
+472,1400,upper chest area,admitted,suburban,Single,Yes,Yes,0,0,27,Male,1
+473,1300,stomach,appointed session,suburban,Divorced,Yes,No,3,1,25,Male,2
+474,5300,head,under appointment,suburban,Married,No,No,3,1,22,Male,8
+475,9300,shoulder,new consultation,urban,Single,Yes,No,0,0,15,Female,16
+476,1200,head,appointed session,urban,Single,Yes,No,1,0,20,Male,2
+477,3500,back,new consultation,suburban,Single,Yes,No,0,0,30,Female,5
+478,7400,head,under appointment,suburban,Married,Yes,Yes,4,3,20,Male,12
+479,3800,shoulder,new consultation,rural,Single,Yes,Yes,0,1,18,Female,6
+480,4400,shoulder,new consultation,rural,Married,Yes,Yes,2,1,35,Male,7
+481,6600,upper chest area,admitted,rural,Divorced,Yes,Yes,4,4,37,Female,10
+482,2100,legs,under appointment,suburban,Divorced,No,Yes,4,1,37,Female,3
+483,9200,head,new consultation,rural,Single,No,No,0,0,21,Male,16
+484,7000,back,admitted,suburban,Single,No,No,1,1,30,Female,11
+485,9800,legs,under appointment,rural,Married,Yes,No,4,1,36,Female,17
+486,5200,stomach,admitted,urban,Single,No,No,0,1,21,Female,8
+487,2100,back,new consultation,rural,Single,Yes,Yes,0,1,39,Male,3
+488,5300,back,admitted,suburban,Married,No,No,1,3,36,Female,8
+489,8200,head,under appointment,suburban,Married,No,No,1,3,36,Female,14
+490,7000,back,appointed session,urban,Married,No,Yes,1,3,16,Male,11
+491,4200,chest area,under appointment,suburban,Married,No,No,3,2,29,Male,6
+492,7600,back,new consultation,suburban,Single,No,Yes,1,0,13,Female,13
+493,7000,back,new consultation,suburban,Married,Yes,Yes,4,2,11,Male,11
+494,9200,stomach,admitted,suburban,Married,Yes,No,2,3,14,Male,16
+495,9100,stomach,new consultation,suburban,Married,Yes,No,1,1,33,Female,16
+496,4700,legs,new consultation,suburban,Single,No,Yes,1,1,39,Female,7
+497,5200,stomach,appointed session,rural,Divorced,No,Yes,2,4,39,Female,8
+498,3500,chest area,new consultation,suburban,Married,Yes,Yes,2,4,21,Female,5
+499,3400,stomach,admitted,urban,Single,Yes,Yes,1,1,35,Female,6
+500,4000,stomach,new consultation,urban,Single,Yes,No,0,1,36,Female,6
+501,9800,shoulder,new consultation,urban,Single,Yes,Yes,1,1,35,Female,17
+502,1700,back,admitted,suburban,Single,No,No,1,0,17,Male,3
+503,6400,stomach,admitted,urban,Married,Yes,No,2,2,20,Male,10
+504,8000,upper chest area,under appointment,suburban,Married,Yes,Yes,3,4,12,Male,13
+505,4900,stomach,admitted,suburban,Married,Yes,Yes,4,3,20,Male,7
+506,7600,chest area,new consultation,urban,Single,No,Yes,0,0,19,Male,14
+507,8200,upper chest area,admitted,urban,Married,Yes,Yes,3,2,20,Male,14
+508,9800,legs,new consultation,urban,Married,No,Yes,1,3,16,Male,17
+509,8300,stomach,new consultation,urban,Divorced,No,No,3,2,32,Female,14
+510,6900,upper chest area,under appointment,rural,Divorced,No,No,2,3,31,Female,11
+511,5000,legs,admitted,suburban,Divorced,Yes,No,4,3,29,Female,7
+512,5300,head,new consultation,suburban,Divorced,Yes,No,2,4,25,Male,8
+513,10400,shoulder,new consultation,urban,Married,Yes,No,1,2,32,Male,18
+514,4600,upper chest area,new consultation,suburban,Divorced,No,Yes,4,3,27,Male,7
+515,4200,stomach,new consultation,rural,Married,Yes,No,2,4,27,Female,6
+516,1200,head,new consultation,urban,Single,No,Yes,1,1,24,Male,2
+517,9700,legs,new consultation,urban,Divorced,No,Yes,1,4,19,Female,17
+518,7900,chest area,new consultation,urban,Married,Yes,No,4,2,15,Male,13
+519,7400,stomach,under appointment,rural,Divorced,No,No,1,3,29,Male,12
+520,8400,head,under appointment,suburban,Married,Yes,No,2,4,10,Male,14

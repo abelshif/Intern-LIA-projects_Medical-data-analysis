@@ -1,0 +1,9 @@
+Pearson correlation coefficient (r) value	Strength	Direction
+
+Greater than 0.5	                        Strong	    Positive
+Between 0.3 and 0.5	                        Moderate	Positive
+Between 0 and 0.3	                        Weak	    Positive
+0                                           None	    None
+Between 0 and –0.3	                        Weak	    Negative
+Between –0.3 and –0.5	                    Moderate	Negative
+Less than –0.5	                            Strong	    Negative

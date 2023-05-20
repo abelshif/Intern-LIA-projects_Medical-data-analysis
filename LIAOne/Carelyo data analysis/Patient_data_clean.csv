@@ -1,0 +1,48 @@
+patient_id,allergies,blood_type,closest_hospital,community,country,date_of_birth,disabilities,name,gender,has_children,has_dependent,height,marital_status,medical_problems,weight
+4,pollen,A-,12,rural,nigeria,2006-06-15 00:00:00,delirium,GARBO SHARRON,Male,Yes,Yes,169,single,overweight,63
+6,nuts,B-,10,urban,nigeria,2010-03-21 00:00:00,alzheimer's,ANKUR HENDRY,Female,No,Yes,167,single,underweight,79
+8,nuts,A+,5,urban,nigeria,2012-08-24 00:00:00,arthritis,ADONIJAH NEKA,Male,No,No,147,divorced,drug addiction,69
+12,pollen,AB-,5,rural,nigeria,1996-08-11 00:00:00,ruptured discs,ANNABELLA HENNESSEY,Female,No,Yes,151,widowed,underweight,86
+13,pollen,B+,15,urban,nigeria,1996-01-13 00:00:00,ruptured discs,GARETH SHASHWAT,Female,No,Yes,207,divorced,none,91
+14,flowers,B-,2,urban,nigeria,1988-04-11 00:00:00,ruptured discs,ADREAN NEKO,Female,Yes,No,190,single,overweight,76
+20,dust,B+,15,rural,nigeria,2011-04-02 00:00:00,alzheimer's,ADRIANA NELI,Male,No,Yes,181,single,mental issue,87
+21,flowers,A+,8,urban,nigeria,1998-07-24 00:00:00,none,ANNA-LISA HENRIQUE,Female,Yes,No,170,single,underweight,91
+22,flowers,O+,15,urban,nigeria,1988-10-15 00:00:00,amnesia,GARNETTE SHATERA,Male,No,Yes,178,divorced,mental issue,73
+23,pollen,AB-,5,suburban,nigeria,1987-09-08 00:00:00,fibromas,ADRIANNA NELINI,Male,Yes,No,164,single,none,76
+25,pollen,B-,2,rural,nigeria,2010-01-16 00:00:00,cyclothimic disorder,GARRETH SHATIK,Male,No,No,175,single,none,83
+29,dust,B+,3,urban,nigeria,1998-11-30 00:00:00,scoliosis,ADRIELLE NELLI,Male,Yes,Yes,162,single,not immunized,84
+31,dust,A-,10,rural,nigeria,1986-04-03 00:00:00,atherosclerosis,GARRY SHAUGHN,Female,Yes,No,228,widowed,physical injury,73
+35,pollen,AB-,5,rural,nigeria,1988-10-27 00:00:00,alzheimer's,ADRION NELSI,Male,No,No,223,single,none,77
+37,flowers,B-,8,suburban,nigeria,2008-06-24 00:00:00,none,GARY SHAUNDA,Male,Yes,Yes,192,single,physical injury,89
+38,flowers,AB+,2,urban,nigeria,1995-09-13 00:00:00,cyclothimic disorder,ADUNNI NELSY,Female,Yes,Yes,189,married,none,86
+41,pollen,O-,3,rural,nigeria,1988-03-15 00:00:00,atherosclerosis,ADY NEMA,Male,No,Yes,181,married,drug addiction,87
+42,flowers,AB+,8,suburban,nigeria,2012-08-02 00:00:00,none,ANNELISE HERMES,Female,Yes,Yes,133,single,mental issue,102
+44,flowers,AB+,10,rural,nigeria,1989-02-25 00:00:00,fibromas,AEISHA NENA,Male,No,Yes,239,single,underweight,77
+45,flowers,B+,2,suburban,nigeria,2000-10-22 00:00:00,ruptured discs,ANNEMARIE HERMINIO,Male,No,No,200,married,mental issue,85
+47,dust,AB-,8,rural,nigeria,1984-11-15 00:00:00,amnesia,AESHA NENETTE,Female,Yes,Yes,159,widowed,none,88
+49,pollen,A-,5,urban,nigeria,1990-01-15 00:00:00,fibromas,GAURAV SHAUNTA,Male,No,Yes,147,single,underweight,73
+50,pollen,AB-,2,rural,nigeria,2010-07-10 00:00:00,fibromas,AFEISHA NEO,Female,No,No,220,single,none,67
+51,dust,A-,5,urban,nigeria,2007-12-16 00:00:00,alzheimer's,ANNE-SOPHIE HERO,Male,Yes,Yes,218,single,overweight,79
+56,pollen,AB+,8,suburban,nigeria,2004-10-15 00:00:00,arthritis,AFONSO NEREYDA,Male,No,Yes,259,divorced,drug addiction,87
+57,pollen,B-,1,urban,nigeria,1989-06-04 00:00:00,cyclothimic disorder,ANNICA HERSHEL,Female,No,No,184,single,none,89
+58,dust,O-,5,urban,nigeria,2007-10-24 00:00:00,amnesia,GAY SHAVA,Female,No,No,145,single,none,77
+60,flowers,A-,2,suburban,nigeria,1987-10-10 00:00:00,delirium,ANNIKA HERSON,Male,No,No,225,single,not immunized,79
+61,pollen,A+,3,suburban,nigeria,2007-08-11 00:00:00,fibromas,GAYATRI SHAVAUGHN,Male,Yes,Yes,150,married,physical injury,77
+63,nuts,A+,15,suburban,nigeria,1983-09-19 00:00:00,scoliosis,ANNISIA HERU,Male,No,No,240,married,overweight,77
+64,dust,A-,10,urban,nigeria,1988-02-15 00:00:00,none,GAYLORD SHAVON,Female,No,Yes,249,single,overweight,101
+68,dust,A+,10,urban,nigeria,2009-08-26 00:00:00,amnesia,AFSHIN NESHA,Female,Yes,Yes,223,single,none,81
+69,dust,B-,12,urban,nigeria,1997-04-13 00:00:00,cyclothimic disorder,ANOOP HESKY,Female,No,Yes,254,single,none,96
+71,nuts,O-,1,urban,nigeria,1993-04-17 00:00:00,fibromas,AFZAL NESRIN,Female,Yes,No,252,single,not immunized,99
+74,dust,AB-,5,rural,nigeria,2012-03-19 00:00:00,none,AGAM NESSIE,Male,Yes,Yes,239,widowed,none,98
+75,dust,B-,3,suburban,nigeria,1994-10-05 00:00:00,arthritis,ANOWAR HIBA,Female,No,No,190,single,none,78
+76,nuts,B-,10,urban,nigeria,2005-06-23 00:00:00,none,GEANINE SHAWNDA,Female,No,Yes,244,single,underweight,83
+82,pollen,AB-,10,urban,nigeria,1993-07-09 00:00:00,none,GEENA SHAWNETTE,Male,Yes,No,258,single,drug addiction,61
+83,pollen,B+,1,suburban,nigeria,1991-05-07 00:00:00,cyclothimic disorder,AGNE NEUMAN,Male,Yes,Yes,212,single,none,84
+85,flowers,O-,3,urban,nigeria,1994-02-11 00:00:00,amnesia,GEETHA SHAWNTA,Male,Yes,No,260,single,overweight,60
+86,dust,AB+,2,rural,nigeria,2006-12-01 00:00:00,cyclothimic disorder,AGNÃˆS NEVA,Male,Yes,Yes,232,single,none,99
+87,pollen,B-,1,suburban,nigeria,2004-04-25 00:00:00,none,ANSIL HIJIRI,Male,No,Yes,237,widowed,drug addiction,92
+89,dust,A+,10,rural,nigeria,2011-11-16 00:00:00,alzheimer's,AGRON NEVENA,Male,Yes,Yes,193,divorced,drug addiction,63
+91,flowers,AB-,5,rural,nigeria,2005-07-20 00:00:00,atherosclerosis,GELISA SHAWNTIA,Female,No,No,209,single,mental issue,101
+92,dust,AB+,2,urban,nigeria,1996-05-14 00:00:00,none,AGUSTINA NEVILLE,Female,Yes,Yes,199,single,none,83
+94,dust,AB+,3,urban,nigeria,1997-08-13 00:00:00,none,GEM SHAYA,Female,No,Yes,235,widowed,mental issue,94
+99,nuts,O+,12,rural,nigeria,2007-01-23 00:00:00,atherosclerosis,ANTHE HILDY,Male,Yes,Yes,252,single,mental issue,101
