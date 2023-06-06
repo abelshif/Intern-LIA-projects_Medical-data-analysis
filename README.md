@@ -1,2 +1,1 @@
-# Swedcon18 AB
-## Internship
+# Internship project
